@@ -1,0 +1,10 @@
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\Andre99\Downloads\2764214F594F817524\MultiChatServer\obj\Debug\MultiChatServer.pdb
